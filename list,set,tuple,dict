@@ -1,0 +1,34 @@
+LIST:
+-list is an ordered collection of elements
+-it allows duplicates that means elements can be repeat
+-in terms of order  elements have definite sequence
+-supports indexing and slicing
+-mutable -that means elements can be added ,removed,or updated
+-requires looping or other methods 
+-it is denoted by square brackets []
+-it is slower due to sequential search
+-Used for ordered data or when duplicates are allowed.
+
+TUPLE:
+ -tuples are immutable that means it cannot changed after creation
+ -ordered (preserves order of elements)
+ -it allows duplicates
+ -it can be  accessed by indexing 
+ -the use case is it is used for fixed collection of items
+ -these are more efficient because they cannot be changed 
+-the speed of execution is faster in tuple because it has fixed set of values
+ -denoted by ()
+
+ SET
+-collection of unique elements
+- denoted by {}
+-it doesnot follows sequence 
+-we cannot sure same sequence for the set
+-it uses  a concept of hash(in hash we fetch the value faster)
+-indexing is not supported
+
+DICTIONARY
+
+- it has a key and value
+- representation data={1:"anusha,2:"kar",4:"bala"}
+
